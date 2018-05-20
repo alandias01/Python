@@ -2,6 +2,8 @@
 # don't ignore myself!
 !.gitignore
 
+app01/
+
 wordpress/
 
 #Eclipse
