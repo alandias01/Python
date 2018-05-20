@@ -128,7 +128,7 @@ class MyClass:
             if item=="c":
                 break   #breaks out of loop
                 #continue   #skips rest of statement in this loop block and goes to next iteration
-                print("bottom of loop")
+            print("bottom of loop")
 
 
 #issue to watch out for.  Class level array shared with all instances
