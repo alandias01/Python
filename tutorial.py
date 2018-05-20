@@ -5,10 +5,11 @@
 #python interpreter.  ctrl+shift+p, then type python:select interpreter, select the interpreter location from dropdown
 #To debug, open debug window and select python: current file.  To the left of the name is a green arrow.  Press it to run
 
-#Modules Say you have a file named fibo.py with 2 functions, fib and fib2.  You can import them saying 
+#Modules 
+#Say you have a file named fibo.py with 2 functions, fib and fib2.  You can import them saying 
 #import fibo
 #then use them like fibo.fib()
-#also you an impirt them like
+#also you can import them like this
 #from fibo import fib, fib 2
 #then use them like fib()
 #you can also import all methods like this
