@@ -86,6 +86,10 @@ print(list(tel.keys()))
 for k,v in tel.items():
     print(k,v)
 
+#Reading and writing Files
+
+fh = open('data.csv','r')
+
 class MyClass:
     """
     My Test Class
