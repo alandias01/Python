@@ -1,0 +1,15 @@
+Starting application
+Trade: 12345 will not be processed
+updating trade: 1643 now
+Trade: 12345 will not be processed
+Trade: 12345 will not be processed
+updating trade: 8645 now
+Trade: 12345 will not be processed
+Trade: 12345 will not be processed
+Trade: 12345 will not be processed
+updating trade: 9544 now
+Trade: 12345 will not be processed
+Trade: 12345 will not be processed
+updating trade: 5478 now
+Trade: 12345 will not be processed
+Trade: 12345 will not be processed
